@@ -1,0 +1,16 @@
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.snow {
+  background-image: url(../images/about-me.JPG);
+  padding: 400px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body {
+  font-size: 1.125rem;
+  border: 0;
+}
